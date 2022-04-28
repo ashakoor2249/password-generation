@@ -2,7 +2,7 @@ This program generates a random password of eight characters. Each time the prog
 
 Major changes was made to the program. A class, PasswordManager was defiend to better organize the program.
 
-The creation of the random passowrd was condensed into one method called generate_pw
+The creation of the random password was condensed into one method called generate_pw
 
 THe csv module was imported in order to create a csv file where the generated passwords along with their associated application could be stored.
 
